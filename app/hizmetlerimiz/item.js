@@ -1,0 +1,5 @@
+export const Hizmetlerİtem = [
+    {id:1, url:"/photo/service-box1.jpg", title:"Eğitim Hizmetlerimiz", desc:"Firmamız mevzuat değişiklikleri, muhasebe standartları ve uygulamaları konusundaki gelişmeler başta olmak üzere faaliyetimizle ilgili konularda gelen talepler doğrultusunda eğitim hizmetleri sunmaktadır.", button:"DETAYLAR"},
+    {id:2, url:"/photo/service-box3.jpg", title:"Denetim Hizmetlerimiz", desc:"Şirketimiz Kamu Gözetimi Kurumu (KGK) tarafından bağımsız denetim yetki belgesine sahip bir şirkettir. Bağımsız denetim hizmetlerini sunarken temel amacımız; şirketlerin finansal bilgilerinin düzenleyici", button:"DETAYLAR"},
+    {id:3, url:"/photo/service-box2.jpg", title:"Danışmanlık Hizmetlerimiz", desc:"Ekonomik ve finansal koşullardaki değişimler şirket yönetimlerinin özel uzmanlık alanlarına olan ihtiyaçlarını giderek arttırmaktadır. Müşterilerimizin değişen ihtiyaçları karşısında, rekabet", button:"DETAYLAR"},
+]
